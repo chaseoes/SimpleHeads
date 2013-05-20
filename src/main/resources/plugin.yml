@@ -1,0 +1,8 @@
+name: SimpleHeads
+main: com.chaseoes.simpleheads.SimpleHeads
+version: 1.0
+description: A simple plugin to give you player heads.
+commands:
+  head:
+    description: Central command for the SimpleHeads plugin.
+    usage: /head <player>
